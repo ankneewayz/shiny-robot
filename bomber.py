@@ -58,7 +58,7 @@ from collections import defaultdict
 
 BOT_TOKEN = "8279926139:AAHXx5BM7wN7Xgu1KuioZspWI6522BYegnI"  # Your bot token
 OWNER_USERNAME = "@ankneewayz"             # Owner Telegram handle
-OWNER_ID = 0                                # ← SET YOUR NUMERIC ID FROM @userinfobot
+OWNER_ID = 7017637051               # ← SET YOUR NUMERIC ID FROM @userinfobot
 DB_PATH = "bomber_admin.db"
 MAX_CONCURRENCY = 80                        # Reduced from 100 for stability
 DEFAULT_DELAY = 0.5
